@@ -1,4 +1,4 @@
-{% set version = "2.098.1" %}
+{% set version = "2.099.0" %}
 
 package:
   name: dtools
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/dlang/tools/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: 59db41bb4d00c84fb57b313f6824d0e78fc7c87c9d5bfa2722dd28e95806e667
+  sha256: 8a0c6b3aa98647342bd2e22832e7268a343c5d86f6ae39729f2637421dd7a607
 
 build:
   number: 0
