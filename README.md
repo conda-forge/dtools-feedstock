@@ -1,11 +1,11 @@
-About dtools
-============
+About dtools-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dtools-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/dlang/tools/
 
 Package license: BSL-1.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dtools-feedstock/blob/main/LICENSE.txt)
 
 Summary: Ancillary tools for the D programming language compiler
 
